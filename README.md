@@ -1,3 +1,5 @@
+<p> Instalação </p>
+
 `npm create vite@latest`
 
 `npm install`
@@ -11,3 +13,7 @@
 <p> React Icons </p>
 
 `npm install react-icons --save`
+
+<p> Rotas </p>
+
+`npm install react-router-dom`
